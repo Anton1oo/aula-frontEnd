@@ -1,0 +1,20 @@
+body {
+    background-color: #459BCF;
+}
+
+.sobre {
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: normal;
+    color: #B8D0CF;
+    text-align: center;    
+}
+.button {
+    text-decoration: none;
+    background-color: red;
+    border: none;
+    border-radius: 35px;
+    padding: 10px;
+    margin-top: 20px;
+    color: #000;
+}
